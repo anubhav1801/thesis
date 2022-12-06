@@ -1,56 +1,33 @@
-# thesis
-Pg 1
-The male preponderance n neonatal septicemia could be linked to the X- chromosome
+Page 2
+COMPARATIVE
 
-ed immune regulatory gene factor resulting in the host's susceptibility to infections in
+VE STUDIES SHOWING THE BIRTH WEIGHT DISTRIBUTION
 
-males (Khatua et al.,).
+CULTURE
 
-COMPARATIVE STUDIES SHOWING AGE DISTRIBUTION
+POSITIVE VLBWLBW
 
-CULTURE EOS
+NO AUTHORS
 
-NO. AUTHORS
+YEA
 
-YEAR
+CASES
 
-POSITIVE
-
-CASES (NO.)
-
-Tallur et al 6
-
-2000
+R NO.)
 
 157
 
-G. Karthikeyan et al
+2000
 
-2001
+Tallur et al 16
 
-96
-
-Varsha et al 33
+59
 
 2003
 
-150
+Zawar et al 46
 
-3.
-
-R.S.Jaswal et al 4
-
-2003
-
-50
-
-Sriram R et al
-
-58
-
-2011
-
-5.
+Sriram. R et al 2011 58
 
 64
 
@@ -58,62 +35,128 @@ Sriram R et al
 
 Present study
 
-6.
+O In this study the proportion of culture positive septicemic cases were higher among the
 
-O Maximum culture positive cases were seen in neonates less than one week of age (early
+very low birth weight neonates when compared with the Low and Normal birth weight
 
-onset septicemia) as compared to neonates aged more than one week (late onset septicemia)
+neonatesS.
 
-in the present study.
+The mean birth weight of the neonates in this study was 2.24 +0.5 kgs.
 
-UThe mean age of onset of septicemia in the present study was 4.81 years.
+D The results of the present study are comparable with the studies conducted by Khatua et
 
-Tallur et al., Roy et al.," and Varsha et al., reported similar findings in their studies. The
+al.17 Tallur et al." and Zawar et al.
 
-cause of ascending infection could be due to the rupture of membranes or during the passage
+According to Barbara J. Stoll et al., 1991, the rate of infection is inversely proportional to
 
-of the baby through the infected birth canal or at the time of resuscitation in the labor room.
+the weight at birth, and low IgG levels in the very low birth weight neonates contributes to
 
-uG. Karthikeyan et al, reported an equal proportion of EOS and LOS cases in their study,
+the higher susceptibility to infections in these neonates.
 
-Wnlle the study by R.S. Jaswal et al.," shows a higher proportion of LOS cases than EOS
+COMPARATIVE STUDIES SHOWING THE GESTATIONAL AGE DISTRIBUTION
+TERM (37- POST
 
-dSes. These findings could suggest a nosocomial source of infection and the geographical
-variation in the infecting organism.
+CULTURE PRETER
 
-ne reason for the higher proportion of EOS could be the immature immunological
+YEA POSITIVE M
 
-respo in the newborns during the first week of life, making them more susceptible to
+CASES (37 WKS) (%)
 
-nfections in this period.
+NO AUTHORS
 
-LOS
+NO)
 
-()
+157
 
-83.47%
+2000
 
-16.53%
+3
 
-50.00%
+Tallur et al °
 
-50.00%
+1.
 
-74.60%
+Betty Chacko et al 18 2005 42
 
-25.40%
+58
 
-26.00%
+2011
 
-74.00%
+Sriram. R et al
 
-77.6%
+| 3.
 
-22.4%
+64
 
-78.1%
+2020
 
-21.9%
+4.
 
-68
+of culture positive septicemia cases was higher among the preterm
+
+Present study
+
+The roportion
+
+NORMAL
+
+BIRTH
+
+(2KGS) 2-2.4 KGS) WEIGHT
+
+(%)
+
+2.5 KGS)
+
+(%)
+
+54.55%
+
+45.50%
+
+69%
+
+31%
+
+41.38%
+
+32.76%
+
+25.86%
+
+40.6%
+
+34.4%
+
+25.0%
+
+41 WKS) TERM
+
+41
+
+WKS)
+
+(%)
+
+39.70%
+
+60.30%
+
+80.60%
+
+19.40%
+
+32.76%
+
+5.17%
+
+62.07%
+
+6.3%
+
+29.7%
+
+64%
+
+69
 
